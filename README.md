@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ARENA-Instructor
+
+- 👋 Hi, I’m the @ARENA-Instructor
 - 👀 I’m interested in teaching Technology.
 - 🌱 I’m currently learning everything interesting.
 - 💞️ I’m looking to collaborate on other learning projects.
